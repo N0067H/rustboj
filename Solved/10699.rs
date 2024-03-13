@@ -1,4 +1,3 @@
 fn main() {
-    println!("383");
-    println!("noobth");
+    println!("2024-03-13");
 }
